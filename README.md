@@ -7,7 +7,7 @@ A full description of the data is available at the site where the data was obtai
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 #### Creating the tidy data
-This script assumes the raw data will be in the same directory as the script (**run_analysis.R**) in a directory
+This script assumes the raw data will be in the same (working) directory as the script (**run_analysis.R**) in a directory
 called **UCI HAR Dataset**
 
 To produce the tidy dataset, run the following commands. Don't forget to set you path.

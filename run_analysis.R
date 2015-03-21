@@ -11,11 +11,11 @@
 
 # Set working directory. Data files should be extracted in this directory 
 # Change this directory to reflect the users directory structure
-setwd("C:/Users/baz/Google Drive/Data Analysis/Getting and Cleaning Data/src/CourseProject")
+# setwd("path/to/working directory")
 
 library("dplyr")
 library("data.table")
-# This script assumes the data will be in the same directory as the script (run_analysis.R) in a directory
+# This script assumes the data will be in the same (working) directory as the script (run_analysis.R) in a directory
 # called "UCI HAR Dataset"
 # Load data
 activity.labels <- read.table("UCI HAR Dataset/activity_labels.txt")
