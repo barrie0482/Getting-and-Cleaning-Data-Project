@@ -12,7 +12,7 @@ called **UCI HAR Dataset**
 
 To produce the tidy dataset, run the following commands. Don't forget to set you path.
 ```
-setwd("path/to/script/directory")
+setwd("path/to/working/directory")
 source('run_analysis.R')
 ```
 ### Script Description
