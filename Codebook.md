@@ -66,7 +66,7 @@ Descriptions for the variable names are based on information in features_info.tx
 - Features are normalized and bounded within [-1,1].
 - The units used for the accelerations (total and body) are 'g's (gravity of earth -> 9.80665 m/seg2).
 - The gyroscope units are rad/seg.
-  + Ref: http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.names
+- **Ref:** http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.names
 
 
 
