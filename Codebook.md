@@ -1,9 +1,9 @@
 #### Codebook for "Getting and Cleaning Data" Course Project
 #####References:
 
-https://class.coursera.org/getdata-012/forum/thread?thread_id=9
-https://class.coursera.org/getdata-012/forum/thread?thread_id=234
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+- https://class.coursera.org/getdata-012/forum/thread?thread_id=9
+- https://class.coursera.org/getdata-012/forum/thread?thread_id=234
+- http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
 ####README
